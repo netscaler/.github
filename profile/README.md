@@ -5,4 +5,4 @@
 We are currently in the process of migrating NetScaler content from the Citrix repository to this repository. While we are migrating, you can still find all of the NetScaler content on the Citrix repository. Existing forks will continue to function. We appreciate your patience as we work on completing the move.
 
 
-[Citrix Github Repository](https://github.com/citrix/)
+[Citrix GitHub Repository](https://github.com/citrix/)
